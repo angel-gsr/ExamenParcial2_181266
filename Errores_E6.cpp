@@ -16,11 +16,11 @@ int main()
 	
 	if (suma == resultado)
 	{
-		printf("Correcto\n");
+		printf("CORRECTO\n");
 	}
 	else
 	{
-		printf("INCORRECTO: La suma es %x\n",resultado);
+		printf("INCORRECTO: La suma es %d\n",resultado);
 	}
 	return 0;
 }
