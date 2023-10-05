@@ -4,7 +4,9 @@ int main()
 {
 	int i,j;
 	
-	for(i=0;i<100;i++)
+	printf("Entre lineas '-----' se encuentra el multiplo\n");
+	
+	for(i=0;i<=100;i++)
 	{
 		if(i%3==0)
 		{
